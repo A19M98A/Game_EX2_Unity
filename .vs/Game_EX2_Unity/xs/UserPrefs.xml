@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{C99EEC9C-CDDF-2CC9-AFA8-1DCF204D14BA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MenuScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MenuScript.cs" Line="12" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Game_EX2_Unity" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MenuScript.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="36c9c96d-a7a7-4967-a59c-ec1687d1e207" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
