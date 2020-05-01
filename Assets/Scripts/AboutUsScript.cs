@@ -4,15 +4,13 @@ using UnityEngine;
 
 public class AboutUsScript : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public void Back()
     {
-        
+        Application.LoadLevel(0);
     }
 
-    // Update is called once per frame
-    void Update()
+    public void Exit()
     {
-        
+        Application.Quit();
     }
 }
